@@ -1,0 +1,23 @@
+Subject: Application for Machine Learning Intern - [Your Name]
+
+Dear Hiring Manager,
+
+I am writing to express my strong interest in the Machine Learning Intern position. With a solid background in Deep Learning and Computer Vision, combined with hands-on experience in Python and TensorFlow, I am confident in my ability to contribute effectively to your team.
+
+My technical profile directly aligns with your requirements:
+
+*   **Deep Learning & CNNs:** I developed a Deep Learning Based Image Classifier, designing a CNN-based multi-class image classification system for image recognition tasks. I applied dropout and learning-rate scheduling to enhance model generalization and validation performance.
+*   **Computer Vision & Python:** Utilizing Python, TensorFlow, and OpenCV, I successfully performed data preprocessing, data augmentation, and model optimization to improve overall classification accuracy.
+*   **Problem Solving:** I possess strong problem-solving, teamwork, and communication skills, which I have demonstrated throughout my technical projects and academic coursework in Machine Learning and Algorithms.
+
+With my core skills in Python, TensorFlow, OpenCV, Keras, and NumPy, I am eager to apply my knowledge to solve real-world challenges as a Machine Learning Intern at your company. 
+
+My resume is attached for your review. I would appreciate the opportunity to discuss how my skills and project experience align with your team's needs.
+
+Thank you for your time and consideration.
+
+Sincerely,
+
+[Your Name]  
+[Your Contact Information]  
+[Your GitHub/LinkedIn Profile Link]
